@@ -33,7 +33,7 @@ Multi-Texture Import Script:
 Main Features:
     
     1. Import Entire set of textures via folder path
-    2. Creates an node group of all of your textures
+    2. Creates a node group of all of your textures
         
         - Connects image node vector input socket to group input socket
         - Names all Image Texture Nodes according to what type of texture map it is
