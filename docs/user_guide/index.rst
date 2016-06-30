@@ -6,5 +6,7 @@ How to use the different parts of the ONELVXE Material Pipeline to create comple
 .. toctree::
    :maxdepth: 2
 
-   nodes
+   nodes/index
+   texture_bridge/index
+
 
