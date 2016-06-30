@@ -6,7 +6,7 @@ How to Install the ONELVXE Material Pipeline
 
 Steps:
   
-  1. Buy plugin and download from  Gumroad here: `ONELVXE Material Pipeline `<http://www.onelvxe.com/material-pipeline>_`
+  1. Buy plugin and download from  Gumroad here: `ONELVXE Material Pipeline <`http://www.onelvxe.com/material-pipeline_`>
   (Warning: The textures packs are relatively large so this may take some time)
   
   2. Unzip everything into the directory of your choice.
