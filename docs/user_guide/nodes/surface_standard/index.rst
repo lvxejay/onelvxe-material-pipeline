@@ -3,6 +3,6 @@ Standard Surface
 
 test
 
-.. sidebar:: Screenshot [Surface.Standrd]
+.. sidebar:: Screenshot [Surface.Standard]
 
-   .. image:: surface_standard.jpeg
+   .. image:: surface_standard.jpeg	
