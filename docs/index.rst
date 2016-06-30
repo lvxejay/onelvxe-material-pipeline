@@ -12,6 +12,6 @@ The pipeline constitutes 3 unique modules: The Studio Shader, ONELVXE Texture Br
 .. toctree::
    :maxdepth: 2
 
-   second_page
-   yet_another_page
-   subfolder/index
+   material_pipeline
+   installation
+   user_guide/index
