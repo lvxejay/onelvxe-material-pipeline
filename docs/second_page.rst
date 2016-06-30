@@ -2,9 +2,10 @@ Material Pipeline
 ********************
 
 The ONELVXE Material Pipeline is composed of 3 Main Parts:
-- Texture Library w/ 100 Materials
-- Texture Bridge
-- Studio Shader
+
+    1. Texture Library w/ 100 Materials
+    2. Texture Bridge
+    3. Studio Shader
 
 
 Texture/Material Library
