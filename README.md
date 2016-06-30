@@ -1,2 +1,2 @@
-# ONELVXE Studio Shader Pipeline
+# Material Pipeline Manual
 Repo For the ONELVXE Studio Shader Plugin
