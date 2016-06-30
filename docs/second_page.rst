@@ -15,9 +15,12 @@ Texture/Material Library
 
 Main Features:
 
-    1. Physically Based Rendering
+    1. Physically Based Rendering (PBR)
     
         - All of the textures have been fine tuned for PBR. The supported PBR texturing model is Roughness/Metallic mapping. For more information on the differing types of texturing workflows and how you can best leverage them as an artist go here: `PBR Guide <https://www.allegorithmic.com/pbr-guide>`_
+        
+    2. Seamless 4k, 2k, 1k resolutions
+    3. Compatibility with any rendering engine or game engine that supports PBR
 
 
 Another Subtitle
