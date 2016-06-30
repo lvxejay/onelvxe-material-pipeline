@@ -17,8 +17,8 @@ templates_path = ['ytemplates']
 source_suffix = '.rst'
 master_doc = 'index'
 
-project = u'Animation Nodes'
-copyright = u'2015, Jacques Lucke'
+project = u'ONELVXE Material Pipeline'
+copyright = u'2016, lvxejay'
 
 version = '0.0.1'
 release = '0.0.1'
@@ -27,26 +27,26 @@ exclude_patterns = ['includes/*']
 
 pygments_style = 'sphinx'
 
-htmlhelp_basename = 'AnimationNodesdoc'
+htmlhelp_basename = 'ONELVXEMaterialPipelinedoc'
 
 latex_elements = {}
 latex_documents = [
-  ('index', 'AnimationNodes.tex', u'Animation Nodes Documentation',
-   u'Jacques Lucke', 'manual'),
+  ('index', 'ONELVXEMaterialPipeline.tex', u'ONELVXE Material Pipeline Manual',
+   u'lvxejay', 'manual'),
 ]
 
 man_pages = [
-    ('index', 'animationnodes', u'Animation Nodes Documentation',
-     [u'Jacques Lucke'], 1)
+    ('index', 'ONELVXEMaterialPipeline', u'ONELVXE Material Pipeline Manual',
+     [u'lvxejay'], 1)
 ]
 texinfo_documents = [
-  ('index', 'AnimationNodes', u'Animation Nodes Documentation',
-   u'Jacques Lucke', 'AnimationNodes', 'A new way to work with data in Blender.',
+  ('index', 'ONELVXEMaterialPipeline', u'ONELVXE Material Pipeline Manual',
+   u'lvxejay', 'ONELVXEMaterialPipeline', 'ONELVXE Material Pipeline',
    'Miscellaneous'),
 ]
 
-epub_title = u'Animation Nodes'
-epub_author = u'Jacques Lucke'
-epub_publisher = u'Jacques Lucke'
-epub_copyright = u'2014, Jacques Lucke'
+epub_title = u'ONELVXE Material Pipeline'
+epub_author = u'lvxejay'
+epub_publisher = u'lvxejay'
+epub_copyright = u'2016, lvxejay'
 epub_exclude_files = ['search.html']
