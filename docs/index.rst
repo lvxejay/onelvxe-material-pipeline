@@ -13,3 +13,5 @@ The pipeline constitutes 3 unique modules: The Studio Shader, ONELVXE Texture Br
    :maxdepth: 2
 
    second_page
+   yet_another_page
+   subfolder/index
