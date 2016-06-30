@@ -1,4 +1,4 @@
-Subfolder
+User Guide
 *********
 
 .. toctree::
