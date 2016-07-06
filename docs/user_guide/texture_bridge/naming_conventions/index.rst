@@ -1,3 +1,6 @@
+Naming Conventions
+**********
+
 Proper Texture Suffixes for ONELVXE Textures Script:
 - Diffuse, Normal, Roughness, Metallic, Ambient Occlusion, Displacement (Glossy and Specular are convereted to Roughness/Metallic respectively to support PBR)
 
