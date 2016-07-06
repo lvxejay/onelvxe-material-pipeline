@@ -1,6 +1,6 @@
 Studio Shading
 *********
-test
+Here you can find details regarding the node groups used to build the ONELVXE Material Pipeline.
 
 
 .. toctree::
@@ -8,6 +8,6 @@ test
 
 
    surface_standard/index
-   surface_specials
-   surface_texturing
+   surface_specials/index
+   surface_texturing/index
    
